@@ -9,7 +9,7 @@
       "name": "V1",
       "item": [
         {
-          "name": "New Request",
+          "name": "get",
           "id": "8c883159-1a4b-4baf-8798-727ea58c4e48",
           "protocolProfileBehavior": {
             "disableBodyPruning": true
