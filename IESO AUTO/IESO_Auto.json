@@ -71577,6 +71577,11 @@
       "id": "fbdc8236-404c-4c59-96c9-e7d1d4462f1e"
     },
     {
+      "name": "New Folder",
+      "item": [],
+      "id": "e160cbf5-2edf-4144-abc0-af572d58c0d5"
+    },
+    {
       "name": "Get latest alert common data for alert notification function",
       "id": "f44384d9-99c2-490f-8e5f-c02528f15a9c",
       "request": {
