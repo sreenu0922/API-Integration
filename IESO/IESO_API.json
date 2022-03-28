@@ -7,7 +7,20 @@
   "item": [
     {
       "name": "V1",
-      "item": [],
+      "item": [
+        {
+          "name": "New Request",
+          "id": "8c883159-1a4b-4baf-8798-727ea58c4e48",
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          },
+          "request": {
+            "method": "GET",
+            "header": []
+          },
+          "response": []
+        }
+      ],
       "id": "728b029c-4140-466d-8184-b1152095c533"
     }
   ]
