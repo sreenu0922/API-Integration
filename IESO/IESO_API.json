@@ -1,0 +1,39 @@
+{
+  "info": {
+    "_postman_id": "12323df5-0f77-44d2-8a52-cdf2d7224508",
+    "name": "test collection",
+    "schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "V1",
+      "item": [
+        {
+          "name": "get",
+          "id": "8c883159-1a4b-4baf-8798-727ea58c4e48",
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          },
+          "request": {
+            "method": "GET",
+            "header": []
+          },
+          "response": []
+        }
+      ],
+      "id": "728b029c-4140-466d-8184-b1152095c533"
+    },
+    {
+      "name": "New Request",
+      "id": "40e8062c-1e29-4c9a-b0c2-95f4a660da27",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
